@@ -18,8 +18,7 @@
             android:textSize="12pt"
             android:background="#00ccff"
             android:textColor="#ffffffff"
-            android:text="My Application"
-            app:layout_constrainTop_toTopOf="parent" />
+            android:text="My Application" />
 
         <ImageView
             android:layout_width="match_parent"
